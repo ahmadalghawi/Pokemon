@@ -33,7 +33,8 @@ Pokémon data is fetched using the [PokéAPI](https://pokeapi.co/).
    ```
 
 3. Run the app:
-
+   remove "base: '/Pokemon-Explorer-App/'," from "vite.config.ts" file, and after 
+ 
      ```bash
      npm run dev
    ```
