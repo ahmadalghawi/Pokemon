@@ -25,19 +25,18 @@ Pokémon data is fetched using the [PokéAPI](https://pokeapi.co/).
    ```bash
    git clone https://github.com/ahmadalghawi/Pokemon-Explorer-App.git
    cd Pokemon-Explorer-App
-  ```
 
 2. Install dependencies:
 
-  ```bash
-   npm install
-```
+     ```bash
+      npm install
+   ```
 
 3. Run the app:
 
-  ```bash
-  npm run dev
-```
+     ```bash
+     npm run dev
+   ```
 ## License
 
 
