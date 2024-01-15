@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom';
-import PokemonList from './assets/components/PokemonList'
+import PokemonList from './assets/PokemonList'
 import './App.css'
-import PokemonDetail from './assets/components/PokemonDetail';
+import PokemonDetail from './assets/PokemonDetail';
 import logo from './image/Pokémon_logo.svg';
 
 
