@@ -1,6 +1,7 @@
 # Pokémon Explorer App
 
 Welcome to the Pokémon Explorer App! This application allows you to explore information about Pokémon, view their details, and navigate through a paginated list.
+- you can visit pokemon website :  https://ahmadalghawi.github.io/Pokemon/
 
 ## Features
 
